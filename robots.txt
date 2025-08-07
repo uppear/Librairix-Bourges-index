@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://uppear.github.io/Librairix-Bourges-index/sitemap.xml
